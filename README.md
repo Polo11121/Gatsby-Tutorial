@@ -1,3 +1,5 @@
+(Gatsby Tutorial - Abandoned) This GitHub repository contains the course materials for learning Gatsby, a modern web framework built on React. It includes comprehensive tutorials, example projects, and exercises, designed to teach the fundamentals of static site generation, performance optimization, and dynamic data handling with Gatsby. 
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
